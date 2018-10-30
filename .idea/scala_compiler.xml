@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="sbt 1" modules="lagom-scala-sbt_9555,beesmart-services-impl,beesmart-services-stream-api,beesmart-services-api,beesmart-services-stream-impl,beesmart-services,beesmart-auth-api,beesmart-auth-impl,common" />
+    <profile name="sbt 2" modules="auth-web-app">
+      <option name="deprecationWarnings" value="true" />
+      <option name="uncheckedWarnings" value="true" />
+      <parameters>
+        <parameter value="-encoding" />
+        <parameter value="utf8" />
+      </parameters>
+    </profile>
+  </component>
+</project>

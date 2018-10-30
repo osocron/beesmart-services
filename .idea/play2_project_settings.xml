@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Play2ExcludedModulesSettings">
+    <option name="INFO">
+      <map>
+        <entry key="auth-web-app">
+          <value>
+            <ProjectSettingsEntry>
+              <option name="sourceDir" value="C:\Users\npere01\IdeaProjects\beesmart\lagom-scala-sbt\auth-web-app\app" />
+              <option name="confDir" value="C:\Users\npere01\IdeaProjects\beesmart\lagom-scala-sbt\.idea\modules\app" />
+              <option name="templateImports">
+                <list>
+                  <option value="models._" />
+                  <option value="controllers._" />
+                  <option value="play.api.i18n._" />
+                  <option value="views.xml._" />
+                  <option value="play.api.templates.PlayMagic._" />
+                  <option value="play.api.mvc._" />
+                  <option value="play.api.data._" />
+                </list>
+              </option>
+              <option name="routesImports">
+                <list>
+                  <option value="controllers.Assets.Asset" />
+                </list>
+              </option>
+              <option name="uri" value="/C:/Users/npere01/IdeaProjects/beesmart/lagom-scala-sbt/.idea/modules" />
+            </ProjectSettingsEntry>
+          </value>
+        </entry>
+        <entry key="beesmart-services">
+          <value>
+            <ProjectSettingsEntry>
+              <option name="playDistrPath" value="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.12/jars/play_2.12-2.6.17.jar" />
+            </ProjectSettingsEntry>
+          </value>
+        </entry>
+        <entry key="lagom-scala-sbt">
+          <value>
+            <ProjectSettingsEntry>
+              <option name="playDistrPath" value="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.12/jars/play_2.12-2.6.17.jar" />
+            </ProjectSettingsEntry>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
